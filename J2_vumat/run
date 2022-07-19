@@ -1,0 +1,4 @@
+#!/bin/bash
+date
+
+/opt/Commands/abq6131 input=J_2000.inp Job=J_2000 user=J2_grad.f double
